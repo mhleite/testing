@@ -1,5 +1,3 @@
-## Common Git Commands
-### Github commands:
 Command      | Description
 ------------ | -------------
 git add . |Add all changes to all files at your current working directory location. Must be a git project.
